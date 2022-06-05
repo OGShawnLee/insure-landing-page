@@ -13,6 +13,8 @@
     "isolatedModules": true,
     "baseUrl": ".",
     "paths": {
+      "@actions": ["src/actions"],
+      "@actions/*": ["src/actions/*"],
       "@assets": ["src/assets"],
       "@assets/*": ["src/assets/*"],
       "@layout": ["src/layout"],

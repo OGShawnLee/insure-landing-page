@@ -7,6 +7,8 @@ export default defineConfig({
   plugins: [solid(), windicss()],
   resolve: {
     alias: {
+      "@actions": resolve("src/actions"),
+      "@actions/*": resolve("src/actions/*"),
       "@assets": resolve("src/assets"),
       "@assets/*": resolve("src/assets/*"),
       "@layout": resolve("src/layout"),
