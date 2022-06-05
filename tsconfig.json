@@ -11,11 +11,14 @@
     "types": ["vite/client"],
     "noEmit": true,
     "isolatedModules": true,
+    "baseUrl": ".",
     "paths": {
       "@assets": ["src/assets"],
       "@assets/*": ["src/assets/*"],
       "@layout": ["src/layout"],
-      "@layout/*": ["src/layout/*"]
+      "@layout/*": ["src/layout/*"],
+      "@signals": ["src/signals"],
+      "@signals/*": ["src/signals/*"]
     }
   }
 }
