@@ -1,4 +1,5 @@
 /* @refresh reload */
+import "virtual:windi.css";
 import App from "./App";
 import { render } from "solid-js/web";
 

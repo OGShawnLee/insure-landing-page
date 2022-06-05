@@ -1,0 +1,17 @@
+export { default as affordable } from "./icon-affordable-prices.svg";
+export { default as introDesktop } from "./image-intro-desktop.jpg";
+export { default as introMobile } from "./image-intro-mobile.jpg";
+export { default as logo } from "./logo.svg";
+export { default as peopleFirst } from "./icon-people-first.svg";
+export { default as pFooterDesktop } from "./bg-pattern-footer-desktop.svg";
+export { default as pFooterMobile } from "./bg-pattern-footer-mobile.svg";
+export { default as pHowWeWorkDesktop } from "./bg-pattern-how-we-work-desktop.svg";
+export { default as pHowWeWorkMobile } from "./bg-pattern-how-we-work-mobile.svg";
+export { default as pIntroLeftDesktop } from "./bg-pattern-intro-left-desktop.svg";
+export { default as pIntroLeftMobile } from "./bg-pattern-intro-left-mobile.svg";
+export { default as pIntroRightDesktop } from "./bg-pattern-intro-right-desktop.svg";
+export { default as pIntroRightMobile } from "./bg-pattern-intro-right-mobile.svg";
+export { default as pMobileNav } from "./bg-pattern-mobile-nav.svg";
+export { default as snappyProcess } from "./icon-snappy-process.svg";
+export { default as iHamburger } from "./icon-hamburger.svg";
+export { default as iClose } from "./icon-close.svg";
